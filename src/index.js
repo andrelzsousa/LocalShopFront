@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './TelaLogin';
+import App from './App';
 import Login from './LoginDesktop';
 import CadastroLojista from './CadastroLojistaDesktop';
 import CadastroShopper from './CadastroShopper';
